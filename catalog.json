@@ -9,6 +9,14 @@
     "sizeBytes" : 1162720115,
     "sha256" : "6f7c73a82847c7961cac5d9c579b2f2f4f7a2b646da80f38b28c8a406e279f60",
     "baked" : false
+  },
+  "clientArtifact" : {
+    "fileName" : "atm10-client.zip",
+    "url" : "https://github.com/DeveloperCarter/mcctl-artifacts/releases/download/atm10-client/atm10-client.zip",
+    "sizeBytes" : 1405259013,
+    "sha256" : "521f89267fc930b3ca4b87900bb5df568f77ab1843878dffb11a2e57cae9a10d",
+    "loaderVersion" : "21.1.228",
+    "baked" : true
   }
 }, {
   "key" : "atm11",
