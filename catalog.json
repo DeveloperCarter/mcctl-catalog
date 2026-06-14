@@ -1,0 +1,11 @@
+[ {
+  "key" : "atm10",
+  "name" : "All the Mods 10",
+  "slug" : "all-the-mods-10",
+  "distributions" : [ "server", "client" ]
+}, {
+  "key" : "atm11",
+  "name" : "atm11",
+  "slug" : "all-the-mods-11",
+  "distributions" : [ "server", "client" ]
+} ]
