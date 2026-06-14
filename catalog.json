@@ -7,5 +7,12 @@
   "key" : "atm11",
   "name" : "atm11",
   "slug" : "all-the-mods-11",
-  "distributions" : [ "server", "client" ]
+  "distributions" : [ "server", "client" ],
+  "serverArtifact" : {
+    "fileName" : "atm11-server.zip",
+    "url" : "https://github.com/DeveloperCarter/mcctl-artifacts/releases/download/atm11-server/atm11-server.zip",
+    "sizeBytes" : 383268306,
+    "sha256" : "fded5dd18bd56b16a2277c74a03993eee2798ceb79f03e7c636fb61f09dd991a",
+    "baked" : false
+  }
 } ]
