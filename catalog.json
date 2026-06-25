@@ -42,5 +42,12 @@
   "key" : "crazy-craft",
   "name" : "crazy-craft",
   "slug" : "crazy-craft-updated",
-  "distributions" : [ "server", "client" ]
+  "distributions" : [ "server", "client" ],
+  "serverArtifact" : {
+    "fileName" : "crazy-craft-server.zip",
+    "url" : "https://github.com/DeveloperCarter/mcctl-artifacts/releases/download/crazy-craft-server/crazy-craft-server.zip",
+    "sizeBytes" : 747642732,
+    "sha256" : "edbd578ee9101fe2eec8d01087b6bbbdff14cb45329c7b1c187fa0dcc7f8765f",
+    "baked" : false
+  }
 } ]
