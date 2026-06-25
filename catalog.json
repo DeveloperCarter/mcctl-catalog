@@ -38,4 +38,9 @@
     "loaderVersion" : "26.1.2.75",
     "baked" : true
   }
+}, {
+  "key" : "crazy-craft",
+  "name" : "crazy-craft",
+  "slug" : "crazy-craft-updated",
+  "distributions" : [ "server", "client" ]
 } ]
